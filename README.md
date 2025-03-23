@@ -33,7 +33,7 @@ TochiToken (TT) is an ERC20-compliant token deployed on the Ethereum network. Th
 
 1. Clone the repository
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Tochy112/Learnable-ERC20-Token-Mint
    cd mytoken
    ```
 
