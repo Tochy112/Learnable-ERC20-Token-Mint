@@ -47,3 +47,5 @@ TochiToken (TT) is an ERC20-compliant token deployed on the Ethereum network. Th
 4. Compile using, `npx hardhat compile`
 5. Deploy on testnet, `npx hardhat run scripts/deploy.ts --network sepolia`
 6. Verify deployed contract on testnet, `npx hardhat verify --network sepolia <deployed-contract-address>`
+
+### Find my verified token contract here, `https://sepolia.etherscan.io/token/0x2eC685F2e5CF4c31e6B724287c85F84683B8e4cd`
